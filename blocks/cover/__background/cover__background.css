@@ -1,5 +1,8 @@
 .cover__background {
-  max-width: 100%;
+  max-width: 1184px;
+  max-height: 740px;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
   display: block;
   object-fit: cover;
   position: absolute;

@@ -2,14 +2,7 @@
   font-size: 24px;
   font-weight: 400;
   line-height: 1.17;
-  text-decoration: none;
-  transition: opacity 0.5s linear;
-  color: #FFFFFF;
-}
-
-.header__lang-link:hover {
-  text-decoration: underline;
-  opacity: 0.5;
+  color: #ffffff;
 }
 
 @media screen and (max-width: 767px) {
