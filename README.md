@@ -11,4 +11,4 @@
 * Затемнение элементов ссылок при помощи псевдокласса :hover.
 
 ### __URL:__
-https://staspanda.github.io/russian-travel/
+https://staskudinow.github.io/russian-travel/
