@@ -19,5 +19,8 @@
 * Эффекты при наведении на интерактивные элементы при помощи псевдокласса `hover:`;
 * Сайт сверстан по макету [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile). При верстке использовалось расширение для Chrome - __Pixel Perfect__.
 
+### Файловая структура:
+* __БЭМ Nested__.
+
 ## __URL:__
 [GitHub Pages](https://staskudinow.github.io/russian-travel/)
